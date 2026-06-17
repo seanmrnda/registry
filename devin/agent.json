@@ -6,6 +6,7 @@
   "website": "https://docs.devin.ai/cli",
   "authors": ["Cognition"],
   "license": "proprietary",
+  "repository": "https://github.com/CognitionAI/devin-cli",
   "distribution": {
     "binary": {
       "darwin-aarch64": {
